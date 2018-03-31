@@ -1,1 +1,1 @@
-# box8
+# Client.java is the entry point.
